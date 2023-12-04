@@ -1,6 +1,6 @@
 
 {
-  "bebidas quentes": [
+  "quente": [
     {
       "id": 1,
       "img": "https://i.imgur.com/cZZg2Ru.png",
@@ -66,7 +66,7 @@
       "price": 17.9
     }
   ],
-    "bebidas geladas": [
+    "frio": [
     {
       "id": 9,
       "img": "https://i.imgur.com/cZZg2Ru.png",
