@@ -1,14 +1,13 @@
 
 {
-  "produtos": [
+  "bebidas quentes": [
     {
       "id": 1,
       "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "AMERICANO COM LEITE",
       "description": "Café filtrado com leite. Equivale ao café coado.",
-      "price": 10.9,
-      "categoria_id": 1
+      "price": 10.9
     },
     {
       "id": 2,
@@ -16,8 +15,7 @@
       "offer": true,
       "title": "ESPRESSO COM LEITE",
       "description": "Shot de espresso com leite.",
-      "price": 12.9,
-      "categoria_id": 1
+      "price": 12.9
     },
     {
       "id": 3,
@@ -25,8 +23,7 @@
       "offer": false,
       "title": "CAPPUCCINO COM CANELA",
       "description": "Nossa mistura de cappuccino com um toque de canela.",
-      "price": 16.9,
-      "categoria_id": 1
+      "price": 16.9
     },    
     {
       "id": 4,
@@ -34,8 +31,7 @@
       "offer": false,
       "title": "CAPPUCCINO TRADICIONAL",
       "description": "Nossa mistura de cappuccino. Obs: é um café bem doce por conta do chocolate.",
-      "price": 16.9,
-      "categoria_id": 1
+      "price": 16.9
     },
     {
       "id": 5,
@@ -43,8 +39,7 @@
       "offer": false,
       "title": "CARAMEL LATTE",
       "description": "Caramelo, café espresso e leite vaporizado. Obs: é um café bem doce por conta do caramelo.",
-      "price": 16.9,
-      "categoria_id": 1
+      "price": 16.9
     },
     {
       "id": 6,
@@ -52,8 +47,7 @@
       "offer": false,
       "title": "DULCE DE LECHE LATTE",
       "description": "Doce de Leite, café espresso e leite vaporizado. Obs: É um café bem doce por conta do doce de leite.",
-      "price": 16.9,
-      "categoria_id": 1
+      "price": 16.9
     },
     {
       "id": 7,
@@ -61,8 +55,7 @@
       "offer": false,
       "title": "MOCHA COM CHOCOLATE",
       "description": "Chocolate, café espresso e leite vaporizado.",
-      "price": 16.9,
-      "categoria_id": 1
+      "price": 16.9
     },
     {
       "id": 8,
@@ -70,17 +63,17 @@
       "offer": false,
       "title": "VANILLA LATTE",
       "description": "Baunilha, café espresso e leite vaporizado. Obs: É um café bem doce por conta da baunilha.",
-      "price": 17.9,
-      "categoria_id": 1
-    },
+      "price": 17.9
+    }
+  ],
+    "bebidas geladas": [
     {
       "id": 9,
       "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "CAFÉ GELADO FIT COFFEE COM ESPRESSO TRIPLO PREMIADO",
       "description": "Para dar aquela energia. Espresso Triplo.",
-      "price": 16.9,
-      "categoria_id": 2
+      "price": 16.9
     },
     {
       "id": 10,
@@ -88,8 +81,7 @@
       "offer": true,
       "title": "CAFÉ GELADO DE OVOMALTINE",
       "description": "Experimente nosso café gelado com Ovomaltine, a combinação perfeita do café especial e o toque crocante e irresistível do Ovomaltine.",
-      "price": 20.9,
-      "categoria_id": 2
+      "price": 20.9
     },
     {
       "id": 11,
@@ -97,8 +89,7 @@
       "offer": false,
       "title": "FRAPP CARAMEL",
       "description": "Café espresso ou base de creme, gelo e leite batido com caramelo. Acompanha chantilly.",
-      "price": 19.9,
-      "categoria_id": 2
+      "price": 19.9
     },
     {
       "id": 12,
@@ -106,8 +97,7 @@
       "offer": false,
       "title": "FRAPP CAPPUCCINO",
       "description": "Nossa base de café gelado batida com gelo. Acompanha chantilly.",
-      "price": 19.9,
-      "categoria_id": 2
+      "price": 19.9
     },
     {
       "id": 13,
@@ -115,8 +105,7 @@
       "offer": false,
       "title": "FRAPP MOCHA",
       "description": "Café espresso ou base de creme, gelo e leite batido com chocolate. Acompanha chantilly.",
-      "price": 19.9,
-      "categoria_id": 2
+      "price": 19.9
     },    
     {
       "id": 14,
@@ -124,8 +113,7 @@
       "offer": false,
       "title": "AMERICANO GELADO PURO",
       "description": "Café filtrado e gelo.",
-      "price": 12.9,
-      "categoria_id": 2
+      "price": 12.9
     },
     {
       "id": 15,
@@ -133,17 +121,17 @@
       "offer": false,
       "title": "AMERICANO GELADO COM LEITE",
       "description": "Café filtrado, leite e gelo.",
-      "price": 11.9,
-      "categoria_id": 2
-    },
+      "price": 11.9
+    }
+  ],
+    "doces": [
     {
       "id": 16,
       "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "BOLO FATIA MORANGO COM CHOCOLATE",
       "description": "Massa pão de ló de chocolate, geleia de morango, chantilly de nata com chocolate e chocolate ao leite.",
-      "price": 13.9,
-      "categoria_id": 3
+      "price": 13.9
     },
     {
       "id": 17,
@@ -151,8 +139,7 @@
       "offer": true,
       "title": "BOLO RED VELVET FATIA",
       "description": "Massa com frutas vermelhas, recheado com creme de cream cheese, finalizado com buttercream(creme de manteiga).",
-      "price": 16.9,
-      "categoria_id": 3
+      "price": 16.9
     },  
     {
       "id": 18,
@@ -160,8 +147,7 @@
       "offer": false,
       "title": "BROWNIE COM CREAM CHEESE FATIA",
       "description": "Brownie de chocolate com nozes e cream cheese..",
-      "price": 16.9,
-      "categoria_id": 3
+      "price": 16.9
     },
     {
       "id": 19,
@@ -169,8 +155,7 @@
       "offer": false,
       "title": "COOKIE DE CHOCOLATE",
       "description": "Crocante por fora, macio por dentro! Perfeito, sabor chocolate.",
-      "price": 10.9,
-      "categoria_id": 3
+      "price": 10.9
     },
     {
       "id": 20,
@@ -178,8 +163,7 @@
       "offer": false,
       "title": "COOKIE DE BAUNILHA",
       "description": "Crocante por fora, macio por dentro! Perfeito, sabor baunilha.",
-      "price": 10.9,
-      "categoria_id": 3
+      "price": 10.9
     },
     {
       "id": 21,
@@ -187,8 +171,7 @@
       "offer": false,
       "title": "DONUTS DE MORANGO",
       "description": "Cobertura de morango decorados com granulados multicoloridos.",
-      "price": 19.9,
-      "categoria_id": 3
+      "price": 19.9
     },
     {
       "id": 22,
@@ -196,17 +179,17 @@
       "offer": false,
       "title": "DONUTS CHOCOLATE",
       "description": "Recheado com creme de chocolate E. Wedel, decorado com listras de chocolate.",
-      "price": 19.9,
-      "categoria_id": 3
-    },    
+      "price": 19.9
+    }
+  ],
+    "salgados": [
     {
       "id": 23,
       "img": "https://i.imgur.com/cZZg2Ru.png",
       "offer": true,
       "title": "COXINHA COM REQUEIJÃO",
       "description": "Massa recheada com frango e requeijão.",
-      "price": 8.2,
-      "categoria_id": 4
+      "price": 8.2
     },
     {
       "id": 24,
@@ -214,8 +197,7 @@
       "offer": false,
       "title": "EMPADA DE FRANGO",
       "description": "Deliciosa empada assada de frango.",
-      "price": 13.7,
-      "categoria_id": 4
+      "price": 13.7
     },    
     {
       "id": 25,
@@ -223,8 +205,7 @@
       "offer": false,
       "title": "PASTEL ASSADO DE CARNE",
       "description": "Delicioso pastel assado de carne.",
-      "price": 13.5,
-      "categoria_id": 4
+      "price": 13.5
     },
     {
       "id": 26,
@@ -232,26 +213,7 @@
       "offer": false,
       "title": "PÃO DE QUEIJO",
       "description": " O legítimo de Minas Gerais.",
-      "price": 11.5,
-      "categoria_id": 4
+      "price": 11.5
     } 
-  ],
-  "categorias": [
-    {
-      "id": 1,
-      "nome": "Bebidas Quentes"
-    },
-    {
-      "id": 2,
-      "nome": "Bebidas Geladas"
-    },
-    {
-      "id": 3,
-      "nome": "Doces"
-    },
-    {
-      "id": 4,
-      "nome": "Salgados"
-    }
   ]
 }
