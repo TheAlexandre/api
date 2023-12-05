@@ -7,7 +7,8 @@
       "offer": true,
       "title": "AMERICANO COM LEITE",
       "description": "Café filtrado com leite. Equivale ao café coado.",
-      "price": 10
+      "price": 10,
+      "width": 10
     },
     {
       "id": 2,
@@ -15,7 +16,8 @@
       "offer": true,
       "title": "ESPRESSO COM LEITE",
       "description": "Shot de espresso com leite.",
-      "price": 12
+      "price": 12,
+      "width": 10
     },
     {
       "id": 3,
@@ -23,7 +25,8 @@
       "offer": false,
       "title": "CAPPUCCINO COM CANELA",
       "description": "Nossa mistura de cappuccino com um toque de canela.",
-      "price": 16
+      "price": 16,
+      "width": 10
     },    
     {
       "id": 4,
