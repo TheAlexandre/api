@@ -1,3 +1,4 @@
+
 {
   "Bebidas_Quentes": [
     {
@@ -7,7 +8,8 @@
       "title": "AMERICANO COM LEITE",
       "description": "Café filtrado com leite. Equivale ao café coado.",
       "price": 10,
-      "width": "10px"
+      "height": "42",
+      "width": "42"
     },
     {
       "id": 2,
@@ -15,8 +17,7 @@
       "offer": true,
       "title": "ESPRESSO COM LEITE",
       "description": "Shot de espresso com leite.",
-      "price": 12,
-      "width": "10px"
+      "price": 12
     },
     {
       "id": 3,
@@ -24,8 +25,7 @@
       "offer": false,
       "title": "CAPPUCCINO COM CANELA",
       "description": "Nossa mistura de cappuccino com um toque de canela.",
-      "price": 16,
-      "width": "10px"
+      "price": 16
     },    
     {
       "id": 4,
@@ -33,8 +33,7 @@
       "offer": false,
       "title": "CAPPUCCINO TRADICIONAL",
       "description": "Nossa mistura de cappuccino. Obs: é um café bem doce por conta do chocolate.",
-      "price": 16,
-      "width": "10px"
+      "price": 16
     },
     {
       "id": 5,
@@ -42,8 +41,7 @@
       "offer": false,
       "title": "CARAMEL LATTE",
       "description": "Caramelo, café espresso e leite vaporizado. Obs: é um café bem doce por conta do caramelo.",
-      "price": 16,
-      "width": "10px"
+      "price": 16
     },
     {
       "id": 6,
@@ -51,8 +49,7 @@
       "offer": false,
       "title": "DULCE DE LECHE LATTE",
       "description": "Doce de Leite, café espresso e leite vaporizado. Obs: É um café bem doce por conta do doce de leite.",
-      "price": 16,
-      "width": "10px"
+      "price": 16
     },
     {
       "id": 7,
@@ -60,8 +57,7 @@
       "offer": false,
       "title": "MOCHA COM CHOCOLATE",
       "description": "Chocolate, café espresso e leite vaporizado.",
-      "price": 16,
-      "width": "10px"
+      "price": 16
     },
     {
       "id": 8,
