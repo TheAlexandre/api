@@ -42,7 +42,8 @@
       "offer": false,
       "title": "CARAMEL LATTE",
       "description": "Caramelo, café espresso e leite vaporizado. Obs: é um café bem doce por conta do caramelo.",
-      "price": 16
+      "price": 16,
+      "width": "10px"
     },
     {
       "id": 6,
@@ -50,7 +51,8 @@
       "offer": false,
       "title": "DULCE DE LECHE LATTE",
       "description": "Doce de Leite, café espresso e leite vaporizado. Obs: É um café bem doce por conta do doce de leite.",
-      "price": 16
+      "price": 16,
+      "width": "10px"
     },
     {
       "id": 7,
@@ -58,7 +60,8 @@
       "offer": false,
       "title": "MOCHA COM CHOCOLATE",
       "description": "Chocolate, café espresso e leite vaporizado.",
-      "price": 16
+      "price": 16,
+      "width": "10px"
     },
     {
       "id": 8,
