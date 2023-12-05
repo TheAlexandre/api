@@ -7,9 +7,7 @@
       "offer": true,
       "title": "AMERICANO COM LEITE",
       "description": "Café filtrado com leite. Equivale ao café coado.",
-      "price": 10,
-      "height": "42",
-      "width": "42"
+      "price": 10
     },
     {
       "id": 2,
@@ -187,7 +185,7 @@
     "Salgados": [
     {
       "id": 23,
-      "img": "https://nutrimassasesalgados.com/wp-content/uploads/2020/05/MG_6676-copiar-scaled.jpg",
+      "img": "https://paodequeijoecia.com.br/novosite/wp-content/uploads/2019/05/coxinha-catupiry-pao-de-queijo-cia-1.png",
       "offer": true,
       "title": "COXINHA COM REQUEIJÃO",
       "description": "Massa recheada com frango e requeijão.",
