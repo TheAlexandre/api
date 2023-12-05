@@ -1,6 +1,6 @@
 
 {
-  "Cafés Quentes": [
+  "Bebidas_Quentes": [
     {
       "id": 1,
       "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
@@ -66,7 +66,7 @@
       "price": 17.9
     }
   ],
-    "Cafés e Frappuccinos Gelados": [
+    "Bebidas_Geladas": [
     {
       "id": 9,
       "img": "https://img.freepik.com/fotos-premium/cafe-gelado-em-copo-de-plastico-para-viagem-isolado-no-fundo-branco_318269-245.jpg",
