@@ -1,9 +1,9 @@
 
 {
-  "quente": [
+  "Cafés Quentes": [
     {
       "id": 1,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
       "offer": true,
       "title": "AMERICANO COM LEITE",
       "description": "Café filtrado com leite. Equivale ao café coado.",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
       "offer": true,
       "title": "ESPRESSO COM LEITE",
       "description": "Shot de espresso com leite.",
@@ -19,7 +19,7 @@
     },
     {
       "id": 3,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
       "offer": false,
       "title": "CAPPUCCINO COM CANELA",
       "description": "Nossa mistura de cappuccino com um toque de canela.",
@@ -27,7 +27,7 @@
     },    
     {
       "id": 4,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
       "offer": false,
       "title": "CAPPUCCINO TRADICIONAL",
       "description": "Nossa mistura de cappuccino. Obs: é um café bem doce por conta do chocolate.",
@@ -35,7 +35,7 @@
     },
     {
       "id": 5,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
       "offer": false,
       "title": "CARAMEL LATTE",
       "description": "Caramelo, café espresso e leite vaporizado. Obs: é um café bem doce por conta do caramelo.",
@@ -43,7 +43,7 @@
     },
     {
       "id": 6,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
       "offer": false,
       "title": "DULCE DE LECHE LATTE",
       "description": "Doce de Leite, café espresso e leite vaporizado. Obs: É um café bem doce por conta do doce de leite.",
@@ -51,7 +51,7 @@
     },
     {
       "id": 7,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
       "offer": false,
       "title": "MOCHA COM CHOCOLATE",
       "description": "Chocolate, café espresso e leite vaporizado.",
@@ -59,17 +59,17 @@
     },
     {
       "id": 8,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://png.pngtree.com/png-vector/20191027/ourlarge/pngtree-coffee-cup-vector-take-away-cafe-coffee-cup-mockup-isolated-illustration-png-image_1886121.jpg",
       "offer": false,
       "title": "VANILLA LATTE",
       "description": "Baunilha, café espresso e leite vaporizado. Obs: É um café bem doce por conta da baunilha.",
       "price": 17.9
     }
   ],
-    "frio": [
+    "Cafés e Frappuccinos Gelados": [
     {
       "id": 9,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/cafe-gelado-em-copo-de-plastico-para-viagem-isolado-no-fundo-branco_318269-245.jpg",
       "offer": true,
       "title": "CAFÉ GELADO FIT COFFEE COM ESPRESSO TRIPLO PREMIADO",
       "description": "Para dar aquela energia. Espresso Triplo.",
@@ -77,7 +77,7 @@
     },
     {
       "id": 10,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/cafe-gelado-em-copo-de-plastico-para-viagem-isolado-no-fundo-branco_318269-245.jpg",
       "offer": true,
       "title": "CAFÉ GELADO DE OVOMALTINE",
       "description": "Experimente nosso café gelado com Ovomaltine, a combinação perfeita do café especial e o toque crocante e irresistível do Ovomaltine.",
@@ -85,7 +85,7 @@
     },
     {
       "id": 11,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/cafe-gelado-em-copo-de-plastico-para-viagem-isolado-no-fundo-branco_318269-245.jpg",
       "offer": false,
       "title": "FRAPP CARAMEL",
       "description": "Café espresso ou base de creme, gelo e leite batido com caramelo. Acompanha chantilly.",
@@ -93,7 +93,7 @@
     },
     {
       "id": 12,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/cafe-gelado-em-copo-de-plastico-para-viagem-isolado-no-fundo-branco_318269-245.jpg",
       "offer": false,
       "title": "FRAPP CAPPUCCINO",
       "description": "Nossa base de café gelado batida com gelo. Acompanha chantilly.",
@@ -101,7 +101,7 @@
     },
     {
       "id": 13,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/cafe-gelado-em-copo-de-plastico-para-viagem-isolado-no-fundo-branco_318269-245.jpg",
       "offer": false,
       "title": "FRAPP MOCHA",
       "description": "Café espresso ou base de creme, gelo e leite batido com chocolate. Acompanha chantilly.",
@@ -109,7 +109,7 @@
     },    
     {
       "id": 14,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/cafe-gelado-em-copo-de-plastico-para-viagem-isolado-no-fundo-branco_318269-245.jpg",
       "offer": false,
       "title": "AMERICANO GELADO PURO",
       "description": "Café filtrado e gelo.",
@@ -117,17 +117,17 @@
     },
     {
       "id": 15,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/cafe-gelado-em-copo-de-plastico-para-viagem-isolado-no-fundo-branco_318269-245.jpg",
       "offer": false,
       "title": "AMERICANO GELADO COM LEITE",
       "description": "Café filtrado, leite e gelo.",
       "price": 11.9
     }
   ],
-    "doces": [
+    "Doces": [
     {
       "id": 16,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://cdn.sodiedoces.com.br/wp-content/uploads/2021/09/25112622/20412_fotos_13-chcomix-com-morangos_bolo_fatia_540x400px13.png",
       "offer": true,
       "title": "BOLO FATIA MORANGO COM CHOCOLATE",
       "description": "Massa pão de ló de chocolate, geleia de morango, chantilly de nata com chocolate e chocolate ao leite.",
@@ -135,7 +135,7 @@
     },
     {
       "id": 17,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://cdn.sodiedoces.com.br/wp-content/uploads/2021/11/29161228/122_fatia_bolo_de_red_velvet_brasil_540x400px.png",
       "offer": true,
       "title": "BOLO RED VELVET FATIA",
       "description": "Massa com frutas vermelhas, recheado com creme de cream cheese, finalizado com buttercream(creme de manteiga).",
@@ -143,7 +143,7 @@
     },  
     {
       "id": 18,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://pubimg.band.uol.com.br/files/12a161ab647af1ef291a.png",
       "offer": false,
       "title": "BROWNIE COM CREAM CHEESE FATIA",
       "description": "Brownie de chocolate com nozes e cream cheese..",
@@ -151,7 +151,7 @@
     },
     {
       "id": 19,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://www.marilan.com/wp-content/uploads/2015/11/DestaqueChoco.png",
       "offer": false,
       "title": "COOKIE DE CHOCOLATE",
       "description": "Crocante por fora, macio por dentro! Perfeito, sabor chocolate.",
@@ -159,7 +159,7 @@
     },
     {
       "id": 20,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://static.wixstatic.com/media/715b2f_be3b5c5ba0bb4926853c159803bb2fa0~mv2.png/v1/fill/w_540,h_324,al_c,lg_1,q_85,enc_auto/SANTA-MARINA---COOKIES-BAUNILHA-60g-v2_p.png",
       "offer": false,
       "title": "COOKIE DE BAUNILHA",
       "description": "Crocante por fora, macio por dentro! Perfeito, sabor baunilha.",
@@ -167,7 +167,7 @@
     },
     {
       "id": 21,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/donut-rosa-sabroso-sobre-fondo-blanco_251318-371.jpg?size=626&ext=jpg",
       "offer": false,
       "title": "DONUTS DE MORANGO",
       "description": "Cobertura de morango decorados com granulados multicoloridos.",
@@ -175,17 +175,17 @@
     },
     {
       "id": 22,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://img.freepik.com/fotos-premium/donut-de-chocolate-isolado-no-fundo-branco_667286-4466.jpg",
       "offer": false,
       "title": "DONUTS CHOCOLATE",
       "description": "Recheado com creme de chocolate E. Wedel, decorado com listras de chocolate.",
       "price": 19.9
     }
   ],
-    "salgados": [
+    "Salgados": [
     {
       "id": 23,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://nutrimassasesalgados.com/wp-content/uploads/2020/05/MG_6676-copiar-scaled.jpg",
       "offer": true,
       "title": "COXINHA COM REQUEIJÃO",
       "description": "Massa recheada com frango e requeijão.",
@@ -193,7 +193,7 @@
     },
     {
       "id": 24,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://t4.ftcdn.net/jpg/00/17/04/31/360_F_17043171_iILDeYOmaKjj3SX8yIosHUTcggrBJwis.jpg",
       "offer": false,
       "title": "EMPADA DE FRANGO",
       "description": "Deliciosa empada assada de frango.",
@@ -201,7 +201,7 @@
     },    
     {
       "id": 25,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://levesabor.com.br/media/32/pastel-de-forno.png",
       "offer": false,
       "title": "PASTEL ASSADO DE CARNE",
       "description": "Delicioso pastel assado de carne.",
@@ -209,7 +209,7 @@
     },
     {
       "id": 26,
-      "img": "https://i.imgur.com/cZZg2Ru.png",
+      "img": "https://levesabor.com.br/media/626/paodequeijo-medio-menor.png",
       "offer": false,
       "title": "PÃO DE QUEIJO",
       "description": " O legítimo de Minas Gerais.",
