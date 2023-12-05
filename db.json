@@ -17,7 +17,7 @@
       "title": "ESPRESSO COM LEITE",
       "description": "Shot de espresso com leite.",
       "price": 12,
-      "width": "15px"
+      "width": "10px"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "title": "CAPPUCCINO COM CANELA",
       "description": "Nossa mistura de cappuccino com um toque de canela.",
       "price": 16,
-      "width": "100px"
+      "width": "10px"
     },    
     {
       "id": 4,
